@@ -1,4 +1,5 @@
 target/
 clicky_config.txt
 clicky_save_data*.json
+clicky_temp_data.json
 bin/
