@@ -1,0 +1,1 @@
+{"contains_numbers":false,"contains_suffixes":false,"contains_enclosers":false,"contains_capital_letters":false}
